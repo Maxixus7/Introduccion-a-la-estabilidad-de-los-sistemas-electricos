@@ -23,7 +23,7 @@ XL3 = 0.6
 Pm = 1.1
 V = 1.0    # Voltaje en barra infinita (0°)
 Va = abs(V)
-V1a = 1.1  # Voltaje en terminales del generador
+V1a = 1.0  # Voltaje en terminales del generador
 
 # ------------------- CONDICIONES PRE-FALLA -------------------
 Pe = Pm
